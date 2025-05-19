@@ -1,0 +1,36 @@
+div#navbar{
+    
+    padding: auto;
+    margin-bottom: 10px;
+}
+div#navbar-right img{
+    height: 10px;
+    width: 10px;
+}
+
+div#navbar-left{
+    float: left;
+}
+
+div#navbar-right{
+    float: right;
+}
+
+
+div#hero{
+    
+    margin-top: 10px;
+    
+}
+
+div#hero-image img{
+    height: 50%;
+    width: 50%;
+    float: left;
+}
+
+div#hero-text {
+    right: 0;
+    justify-content: center;
+    float: right;
+}
